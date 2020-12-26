@@ -12,8 +12,10 @@ Detailed steps for Project: https://github.com/rkkirpane/ADV-PRO-APT-Capstone-Pr
 
 **About the Dataset** 
 
-The dataset has details of 614 customers with the following 13 features Dataset Link: https://docs.google.com/spreadsheets/d/1cfR-wFjIJfBw1pjJrIt38q901x8TGCrVLf-0G1fG66Y/edit?usp=sharing  Our major work for this project involves data analysis using Pandas.
+The dataset has details of 614 customers with the following 13 features
+ADV Dataset Link: https://docs.google.com/spreadsheets/d/1cfR-wFjIJfBw1pjJrIt38q901x8TGCrVLf-0G1fG66Y/edit?usp=sharing
 
+PRO/APT Dataset link: https://raw.githubusercontent.com/rkkirpane/ADV-PRO-APT-Capstone-Project/main/data.csv
 
 Why, solve this project? After completing this project, you will have a better grip on working with pandas. In this project, you will apply the following concepts.
 1. Dataframe slicing 
