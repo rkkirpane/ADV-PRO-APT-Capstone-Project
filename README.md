@@ -1,6 +1,6 @@
 # ADV-PRO-APT-Capstone-Project
 
-## Capstone Assessment: loan_approval_analysis
+## Capstone Project Assessment: loan_approval_analysis
 
 
 **Problem Statement**
