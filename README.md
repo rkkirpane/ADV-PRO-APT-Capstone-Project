@@ -25,6 +25,11 @@ Why, solve this project? After completing this project, you will have a better g
 2. Dataframe aggregation
 3. Pivot table operations  
 
+# Assesment Link
+
+https://forms.gle/G7YxdBmEfVNP2wGYA
+
+
 NOTE: 
 
 ADV Teachers: use spyder to read the data in the local system and explore to find the solutions to questions.
